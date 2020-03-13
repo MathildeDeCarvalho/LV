@@ -123,10 +123,13 @@ footer {
     background-color: #eceeef;
 	height: 50px;
 	line-height: 50px;
+	position: absolute;
+	width: 100%;
 }
 footer .contact {
 	display: flex;
 	justify-content: center;
+
 }
 footer .contact p {
 	margin: 0;
